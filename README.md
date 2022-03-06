@@ -1,3 +1,3 @@
 # Hi there, I'm Mofe
 
-<img src="GITBANNER.jpg" width="100%" >
+<img src="GITBANNER1.jpg" width="100%" >
