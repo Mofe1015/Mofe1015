@@ -2,7 +2,7 @@
 
 # Hi there, I'm Mofe!
 
-A Web and Mobile Developer, Based in the south of Brasil,software engineer at Fetchly , currently a Student at SENAI, Brasil. I work with Python, JavaScript React, Django, CSS, HTML and SQL to build Full Stack Web Apps for Mobile and pc.
+A Web and Mobile Developer, Based in the south of Brasil, software engineer at Fetchly Labs, currently a Student at SENAI, Brasil. I work with Python, JavaScript React, Django, CSS, HTML and SQL to build Full Stack Web and Mobile Apps.
 
 Find me on [LinkedIn](https://www.linkedin.com/in/mofe-omotosho-8761701a4).
 
